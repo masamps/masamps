@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=f97316" alt="Swift" />
   <img src="https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=dependabot&logoColor=60a5fa" alt="Backend" />
   <img src="https://img.shields.io/badge/Web-0d1117?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Web" />
-  <img src="https://img.shields.io/badge/Mobile-0d1117?style=for-the-badge&logo=ios&logoColor=ffffff" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=54c5f8" alt="Flutter" />
 </p>
 
 <p align="center">
