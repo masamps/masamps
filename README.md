@@ -56,7 +56,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=masamps&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f97316&area=true&hide_border=true"
+    width="92%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=masamps&bg_color=212730&color=c9d1d9&line=58a6ff&point=f97316&area=true&hide_border=true"
     alt="Contribution graph"
   />
 </p>
